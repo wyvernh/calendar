@@ -50,3 +50,8 @@ the epoch. However, in order to keep negative years meaningful for large-scale t
 the solstice is still required to fall within the zeroth term of each year.
 * The calendar year rolls over at the transition between the positive twelfth term and the
 negative twelfth term; that is, at noon on the December solstice.
+
+# Resources
+[Equinox and Solstice Predictions](http://sofajpl.com/solstice/index.html)
+[IAU Standards of Fundamental Astronomy](http://www.iausofa.org/2023_1011_C/)
+[Astronomical Almanac 1961](https://archive.org/details/astronomicalalmanac1961/)
