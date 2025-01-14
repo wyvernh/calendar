@@ -5,7 +5,7 @@ developed) the alchemical symbol U{1f718} for the digit twelve. (U{1f718} is an
 approximation of the corresponding Argam numeral, created by Micheal de Vlieger of the
 Dozenal Society of America). This project is primarily inspired by the Dozenal Solstice
 Calendar (with which it shares its epoch and season day distribution concept) and the
-ancient Chinese calendar (from which it borrows the fifteen-day solar term, and the
+traditional Chinese calendar (from which it borrows the fifteen-day solar term, and the
 calibration of these terms to the solar longitude as observed by the earth). The calendar
 can be reproduced from the following constraints:
 
