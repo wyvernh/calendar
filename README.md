@@ -57,3 +57,9 @@ negative twelfth term; that is, at noon on the December solstice.
 [IAU Standards of Fundamental Astronomy](http://www.iausofa.org/2023_1011_C/)
 
 [Astronomical Almanac 1961](https://archive.org/details/astronomicalalmanac1961/)
+
+[CALCEPH](https://www.imcce.fr/inpop/calceph)
+
+[JPL DE441 Ephemeris Download](https://ssd.jpl.nasa.gov/ftp/eph/planets/Linux/de441/)
+
+[Transformation between the ITRS and the GCRS](https://www.iers.org/SharedDocs/Publikationen/EN/IERS/Publications/tn/TechnNote36/tn36_043.pdf?__blob=publicationFile&v=1)
