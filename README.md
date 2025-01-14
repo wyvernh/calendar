@@ -53,5 +53,7 @@ negative twelfth term; that is, at noon on the December solstice.
 
 # Resources
 [Equinox and Solstice Predictions](http://sofajpl.com/solstice/index.html)
+
 [IAU Standards of Fundamental Astronomy](http://www.iausofa.org/2023_1011_C/)
+
 [Astronomical Almanac 1961](https://archive.org/details/astronomicalalmanac1961/)
