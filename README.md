@@ -20,24 +20,24 @@ from the centre of the earth) passes through an exact multiple of fifteen degree
 increases as time increases.
 * The solar terms themselves are numbered from negative twelve to positive twelve. The
 positive and negative twelfth terms are only half terms: the negative twelfth term begins
-with the positive half of the zeroth day, while the positive twelfth term ends with the
+with the positive half of the zeroth day, and the positive twelfth term ends with the
 negative half of the negative zeroth day.
-* The zeroth day of the zeroth solar term includes the traditional June solstice as
-measured in TDB.
+* The traditional June solstice as measured in TDB falls on the zeroth day of the zeroth
+solar term.
 * The fifteen days of each solar term are split into three five consecutive day pentads,
 the zeroth of which contains the zeroth day of the term.
 * When the number of days between zero-days (as required by the solar longitude constraint)
 is not fifteen, days are added or subtracted between solar terms as necessary. These extra
-days are called "season days" or "S-days". These days are evenly split between the two
-terms: the first term takes the negative half of the S day as day eight and the second term
+days are called "season days" or "S-days". Season days are evenly split between the two
+terms: the first term takes the negative half of the S-day as day eight and the second term
 takes the positive half as its day negative eight. If a day needs to be subtracted, the
 seventh and negative seventh days of each term, respectively, are shared. (In the first
-1000~c~ years of the calendar, there is at most one and at least negative one season day
-between consecutive terms.)
+1000<sub>c</sub> years of the calendar, there is at most one and at least negative one
+season day between consecutive terms.)
 * The distribution of season days within the calendar year is completely determined by the
-solar longitude of the sun in ecliptic coordinates and the definition of TDB. Due to the
-eccentricity of the earth's orbit, and the unsolvability of the n-body problem, this means
-there is no predictable S-day pattern.
+solar longitude in ecliptic coordinates as observed by the centre of the earth, and the
+definition of TDB. Due to the eccentricity of the earth's orbit, and the unsolvability of
+the n-body problem, this means there is no predictable S-day pattern for any given year.
 * The epoch of the calendar is defined as noon TDB of the zeroth day of the zeroth solar
 term of the year corresponding to 9564 BCE in the Gregorian calendar. This is the most
 recent time that the perihelion occurred on the June solstice, or the zeroth day of the
